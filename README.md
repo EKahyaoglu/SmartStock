@@ -3,12 +3,12 @@
 An AI-powered tool that is designed to provide recommendations on the stock market by utilizing a combination of traditional financial indicators and modern portfolio theory models. SmartStock leverages the power of Large Language Models (LLMs), particularly that of OpenAI, to analyze key performance indicators (KPIs) and provide actionable recommendations.
 
 ## 👀 What does it do?
-* **Calculates** and **visualizes** popular *KPIs* like *RSI*, *Bollinger Bands*, and *MACD* for specific stocks
-* Looks at the *Price-to-Earnings (P/E) ratio* to help you understand how a stock is valued
-* Checks each stock’s *Beta* to show how risky or volatile it is compared to the overall market
-* Uses **GPT-4o** to summarize the data and give you clear, easy-to-understand investment insights
-* Helps you take steps toward an optimized portfolio by maximizing the **Sharpe Ratio** for better returns at a given level of risk
-* Allows you to add your own views with the **Black-Litterman model** to create a more customized and balanced portfolio
+* **Calculates** and **visualizes** popular *KPIs* like *RSI*, *Bollinger Bands*, and *MACD* for specific stocks,
+* Looks at the *Price-to-Earnings (P/E) ratio* to help you understand how a stock is valued,
+* Checks each stock’s *Beta* to show how risky or volatile it is compared to the overall market,
+* Uses **GPT-4o** to summarize the data and give you clear, easy-to-understand investment insights,
+* Helps you take steps toward an optimized portfolio by maximizing the **Sharpe Ratio** for better returns at a given level of risk,
+* Allows you to add your own views with the **Black-Litterman model** to create a more customized and balanced portfolio.
 
 ## 🖥️ Technologies Used
 
